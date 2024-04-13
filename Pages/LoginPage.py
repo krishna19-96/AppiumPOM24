@@ -14,6 +14,7 @@ class LoginPage(BasePage):
         self.click("LocationPermission_XPATH")
         time.sleep(3)
         self.click("NotificationPermission_ID")
+        time.sleep(2)
         for lis in MobileNumber:
             self.type("MobileNumber_ID", lis)
         self.click("MobileNumber_ID")
