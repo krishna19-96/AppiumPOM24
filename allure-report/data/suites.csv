@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Apr 12 21:05:40 IST 2024","Fri Apr 12 21:05:50 IST 2024","9706","","test_login_page","Test_LoginPage","","","test_loginpage[MobileNumber0]",""
-"passed","Fri Apr 12 21:05:57 IST 2024","Fri Apr 12 21:06:18 IST 2024","20692","","test_search_trucks","Test_LoginPage","","","test_searchtruck[Anna nagar-Krish]",""

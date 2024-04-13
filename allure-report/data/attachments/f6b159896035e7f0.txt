@@ -1,5 +1,0 @@
-INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element LocationPermission_XPATH
-INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element NotificationPermission_ID
-INFO     Pages.BasePage:BasePage.py:46 Clicking on an ElementMobileNumber_IDEntered the value is9600340508
-INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element MobileNumber_ID
-INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element Login_ID

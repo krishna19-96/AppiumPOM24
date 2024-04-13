@@ -1,2 +1,0 @@
-Truck ('Tata Ace Closed', '₹512')
-Vehicle_Price ₹512
