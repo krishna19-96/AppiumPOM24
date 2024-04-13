@@ -1,0 +1,242 @@
+2024-04-12 09:45:32,902 - BasePage.py:[26] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 09:45:41,939 - BasePage.py:[26] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 09:47:52,117 - BasePage.py:[26] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 09:47:55,428 - BasePage.py:[26] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 09:47:57,918 - BasePage.py:[47] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is[9600340508]
+2024-04-12 09:49:54,254 - BasePage.py:[26] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 09:49:57,573 - BasePage.py:[26] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 09:50:00,185 - BasePage.py:[47] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is[9600340508]
+2024-04-12 09:55:44,033 - BasePage.py:[26] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 09:55:47,267 - BasePage.py:[26] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 09:55:49,646 - BasePage.py:[47] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 09:57:02,559 - BasePage.py:[26] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 09:57:04,170 - BasePage.py:[26] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 09:57:06,767 - BasePage.py:[47] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 09:57:07,438 - BasePage.py:[26] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 09:57:08,782 - BasePage.py:[26] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 10:06:01,618 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 10:06:46,822 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 10:06:50,118 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 10:06:52,530 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 10:06:53,239 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 10:06:54,349 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 11:22:20,109 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 11:22:23,244 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 11:22:26,676 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 11:22:27,311 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 11:22:28,547 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 12:50:21,638 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 12:50:24,919 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 12:50:27,319 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 12:50:28,905 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value isAnna nagar
+2024-04-12 12:50:29,779 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 12:50:30,979 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 12:55:37,308 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 12:55:40,554 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 12:56:50,591 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 12:56:53,743 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:29:32,409 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:29:35,568 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:29:37,958 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:29:38,603 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:29:39,889 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:29:54,243 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 13:29:55,705 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 13:29:58,616 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 13:30:03,597 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 13:30:05,007 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 13:30:06,481 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 13:30:56,722 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:31:00,352 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:31:02,906 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:31:03,543 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:31:04,630 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:31:19,234 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 13:31:19,494 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 13:31:22,352 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 13:31:26,028 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 13:31:28,269 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 13:31:29,681 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 13:31:30,195 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 13:31:33,825 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 13:31:34,100 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 13:31:34,350 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 13:37:48,389 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:37:51,615 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:37:54,252 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:37:54,881 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:37:55,880 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:38:43,793 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:38:46,990 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:38:49,943 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:38:50,600 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:38:51,732 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:48:14,493 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:48:17,721 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:48:20,167 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:48:20,807 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:48:21,930 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:48:32,886 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 13:48:35,539 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 13:48:35,803 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 13:48:38,415 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 13:48:40,910 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 13:48:42,685 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 13:48:44,786 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 13:48:45,199 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 13:48:48,529 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 13:48:48,967 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 13:55:45,737 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:55:48,963 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:55:51,464 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:55:52,168 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:55:53,231 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:56:07,653 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 13:56:09,771 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 13:56:10,681 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 13:56:14,588 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 13:56:16,215 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 13:56:18,066 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 13:56:18,965 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 13:56:20,500 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 13:56:24,093 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 13:56:24,392 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 13:58:08,097 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 13:58:11,326 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 13:58:13,933 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 13:58:14,618 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 13:58:15,729 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 13:58:30,338 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 13:58:30,510 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 13:58:32,495 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 13:58:35,397 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 13:58:37,768 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 13:58:39,416 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 13:58:40,335 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 13:58:42,051 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 13:58:44,146 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 13:58:44,597 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 14:02:12,047 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:02:15,208 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:02:22,558 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 14:02:23,261 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 14:02:24,343 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 14:03:08,997 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:03:12,223 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:03:15,273 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 14:03:15,900 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 14:03:16,951 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 14:03:30,867 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 14:03:34,694 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 14:03:35,598 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 14:03:37,806 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 14:03:41,317 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 14:03:42,821 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 14:03:44,327 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 14:03:47,364 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 14:03:48,780 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 14:03:49,685 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 14:07:56,293 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:07:59,440 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:10:14,002 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:10:17,225 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:10:20,777 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 14:10:21,422 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 14:10:22,532 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 14:11:47,484 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:11:50,697 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:20:27,495 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:20:31,197 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:21:21,273 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 14:21:24,486 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 14:21:26,786 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 14:21:27,427 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 14:21:28,458 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 14:22:49,622 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 14:22:53,460 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 14:22:54,358 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 14:23:03,987 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 14:23:05,921 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 14:23:27,436 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 15:39:00,259 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 15:39:03,521 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 15:39:06,091 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 15:39:06,716 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 15:39:07,898 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 15:39:22,818 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 15:39:26,601 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 15:39:27,481 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 15:39:30,623 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 15:39:33,057 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 15:39:35,010 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 15:39:36,532 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 15:39:37,018 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 15:39:39,066 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 15:39:40,989 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 15:41:44,605 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 20:02:04,499 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 20:02:07,713 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 20:02:10,441 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 20:02:11,089 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 20:02:12,213 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 20:02:25,928 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 20:02:27,564 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 20:02:30,404 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 20:02:33,810 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 20:02:35,744 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 20:02:37,627 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 20:02:38,646 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 20:02:41,007 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 20:02:42,064 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 20:02:42,313 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 20:13:27,199 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 20:13:30,397 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 20:13:32,770 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 20:13:33,430 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 20:13:34,630 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 20:13:48,700 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 20:13:52,361 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 20:13:53,265 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 20:13:56,138 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 20:13:58,894 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 20:14:01,243 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 20:14:01,737 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 20:14:02,804 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 20:14:06,806 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 20:14:07,090 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 21:00:30,187 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 21:00:33,419 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 21:00:36,046 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 21:00:36,661 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 21:00:37,831 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 21:00:51,674 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 21:00:55,362 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 21:00:56,264 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 21:01:00,241 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 21:01:01,708 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 21:01:03,073 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 21:01:32,447 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 21:01:32,735 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 21:01:35,486 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 21:01:39,460 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 21:01:40,819 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 21:01:42,580 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 21:01:43,982 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 21:01:44,417 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 21:01:47,868 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 21:01:48,117 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID
+2024-04-12 21:05:42,778 - BasePage.py:[25] - [INFO]- Clicking on an Element LocationPermission_XPATH
+2024-04-12 21:05:46,025 - BasePage.py:[25] - [INFO]- Clicking on an Element NotificationPermission_ID
+2024-04-12 21:05:48,601 - BasePage.py:[46] - [INFO]- Clicking on an ElementMobileNumber_IDEntered the value is9600340508
+2024-04-12 21:05:49,261 - BasePage.py:[25] - [INFO]- Clicking on an Element MobileNumber_ID
+2024-04-12 21:05:50,423 - BasePage.py:[25] - [INFO]- Clicking on an Element Login_ID
+2024-04-12 21:06:03,271 - BasePage.py:[25] - [INFO]- Clicking on an Element Truck_XPATH
+2024-04-12 21:06:05,358 - BasePage.py:[25] - [INFO]- Clicking on an Element localTruck_ID
+2024-04-12 21:06:06,267 - BasePage.py:[46] - [INFO]- Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+2024-04-12 21:06:09,092 - BasePage.py:[25] - [INFO]- Clicking on an Element DropLocationsuggestion1_XPATH
+2024-04-12 21:06:10,848 - BasePage.py:[46] - [INFO]- Clicking on an ElementReceiverName_IDEntered the value isKrish
+2024-04-12 21:06:12,186 - BasePage.py:[25] - [INFO]- Clicking on an Element Usemymobilenumbercheckbox_ID
+2024-04-12 21:06:13,073 - BasePage.py:[25] - [INFO]- Clicking on an Element Saveoption_ID
+2024-04-12 21:06:14,394 - BasePage.py:[25] - [INFO]- Clicking on an Element Confirmbtn_ID
+2024-04-12 21:06:16,581 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicletype_ID
+2024-04-12 21:06:18,611 - BasePage.py:[56] - [INFO]- Clicking on an ElementVehicleprice_ID

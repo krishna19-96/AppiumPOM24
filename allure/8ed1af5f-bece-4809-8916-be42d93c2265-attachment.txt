@@ -1,0 +1,10 @@
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element Truck_XPATH
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element localTruck_ID
+INFO     Pages.BasePage:BasePage.py:46 Clicking on an ElementDropLocation_IDEntered the value isAnna nagar
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element DropLocationsuggestion1_XPATH
+INFO     Pages.BasePage:BasePage.py:46 Clicking on an ElementReceiverName_IDEntered the value isKrish
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element Usemymobilenumbercheckbox_ID
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element Saveoption_ID
+INFO     Pages.BasePage:BasePage.py:25 Clicking on an Element Confirmbtn_ID
+INFO     Pages.BasePage:BasePage.py:56 Clicking on an ElementVehicletype_ID
+INFO     Pages.BasePage:BasePage.py:56 Clicking on an ElementVehicleprice_ID
