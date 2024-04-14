@@ -1,4 +1,5 @@
 
-
 class OpenTwoWheeler:
-    pass
+
+    def open_two_wheeler(self):
+        pass
