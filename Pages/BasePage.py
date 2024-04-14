@@ -16,7 +16,7 @@ class BasePage:
 
     def click(self, locator):
         if str(locator).endswith("_XPATH"):
-            # self.Wait.until(EC.presence_of_element_located(AppiumBy.XPATH,configReader.readConfig("locators",locator))).click()
+            #Xpath
             self.driver.find_element(AppiumBy.XPATH, configReader.readConfig("locators", locator)).click()
         elif str(locator).endswith("_ACCESSIBILITYID"):
             self.driver.find_element(AppiumBy.ACCESSIBILITY_ID, configReader.readConfig("locators", locator)).click()

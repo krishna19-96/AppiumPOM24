@@ -12,7 +12,7 @@ class LoginPage(BasePage):
     def loginPage(self, MobileNumber):
         # time.sleep(3)
         self.click("LocationPermission_XPATH")
-        time.sleep(3)
+        time.sleep(2)
         self.click("NotificationPermission_ID")
         for lis in MobileNumber:
             self.type("MobileNumber_ID", lis)
